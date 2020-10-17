@@ -1,3 +1,3 @@
 # useful
 
-php sample codes which might be helpful
+php sample codes that might be helpful
